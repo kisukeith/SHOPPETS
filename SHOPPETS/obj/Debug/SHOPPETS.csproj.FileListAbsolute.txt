@@ -1,0 +1,9 @@
+C:\Users\Kisu\source\repos\SHOPPETS\bin\Debug\SHOPPETS.exe.config
+C:\Users\Kisu\source\repos\SHOPPETS\bin\Debug\SHOPPETS.exe
+C:\Users\Kisu\source\repos\SHOPPETS\bin\Debug\SHOPPETS.pdb
+C:\Users\Kisu\source\repos\SHOPPETS\obj\Debug\SHOPPETS.csprojAssemblyReference.cache
+C:\Users\Kisu\source\repos\SHOPPETS\obj\Debug\SHOPPETS.Form1.resources
+C:\Users\Kisu\source\repos\SHOPPETS\obj\Debug\SHOPPETS.Properties.Resources.resources
+C:\Users\Kisu\source\repos\SHOPPETS\obj\Debug\SHOPPETS.csproj.GenerateResource.cache
+C:\Users\Kisu\source\repos\SHOPPETS\obj\Debug\SHOPPETS.exe
+C:\Users\Kisu\source\repos\SHOPPETS\obj\Debug\SHOPPETS.pdb
